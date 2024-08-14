@@ -1,1 +1,1 @@
-# CrossWord Game Built USing React
+# CrossWord Game Built Using React
